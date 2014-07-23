@@ -1,0 +1,13 @@
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\bin\Debug\LdapExample.exe.config
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\bin\Debug\LdapExample.exe
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\bin\Debug\LdapExample.pdb
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\obj\Debug\LdapExample.csprojResolveAssemblyReference.cache
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\obj\Debug\MainWindow.baml
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\obj\Debug\MainWindow.g.cs
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\obj\Debug\App.g.cs
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\obj\Debug\LdapExample_MarkupCompile.cache
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\obj\Debug\LdapExample.g.resources
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\obj\Debug\LdapExample.Properties.Resources.resources
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\obj\Debug\LdapExample.csproj.GenerateResource.Cache
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\obj\Debug\LdapExample.exe
+c:\users\miklin\documents\visual studio 2012\Projects\LdapExample\LdapExample\obj\Debug\LdapExample.pdb
